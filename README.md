@@ -101,7 +101,7 @@ The DHCP bindings were successfully verified on the router, and connectivity bet
 
 ##  Project Files
 
-- [Packet Tracer File](Packet-Tracer/dhcp-lab.pkt)
+- [Packet Tracer File](Packet-tracer/dhcp-lab.pkt)
 - [Network Topology](images/Topology.png)
 
 ---
